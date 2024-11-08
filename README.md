@@ -49,5 +49,3 @@ Edit `config.lua` to customize:
 - Race types
 - Reward multipliers
 - Anti-cheat settings
-
-## File Structure
