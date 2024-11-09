@@ -21,7 +21,7 @@ A standalone FiveM resource that adds a dynamic street racing system to your ser
 
 1. Download the resource
 2. Place it in your server's `resources` folder
-3. Add `ensure dynamic_streetracing` to your `server.cfg`
+3. Add `ensure ee-streetracing` to your `server.cfg`
 4. Configure `config.lua` to your preferences
 5. Restart your server
 
